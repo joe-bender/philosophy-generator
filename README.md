@@ -1,4 +1,4 @@
-# Philosophy Text Generator from Scratch
+# Philosophy Text Generator
 
 I created a text generator using a single book, [The Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280) by Immanuel Kant, and a small neural network model trained for only a few epochs on short segments of the text. 
 
